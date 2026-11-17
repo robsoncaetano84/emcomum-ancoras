@@ -37,3 +37,7 @@ raiz   = SHA-256(UTF-8("emcomum|ancora|v1|" + AAAA-MM-DD + "|" + quantidade_de_f
 Exemplo para conferir uma implementação: um dia sem nenhuma folha, `2000-01-01`, dá a raiz `f5ef27eec73774cad811033041d8befed539233adede36221f74cc46d727a164`.
 
 Os arquivos são gravados por um processo automático e nunca são alterados depois de publicados. O histórico de commits deste repositório é público.
+
+## Marco zero (17/11/2026)
+
+Antes de o EmComum começar a ser usado de verdade, a base de testes foi zerada em 17/11/2026: saíram as crianças, os registros e as contas de teste. A âncora de 16/11/2026 se refere a esses dados de teste e não pode mais ser recalculada. As âncoras de uso real começam em 17/11/2026.
