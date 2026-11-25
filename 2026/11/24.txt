@@ -1,0 +1,4 @@
+EmComum: âncora diária do histórico
+dia: 2026-11-24 (até a meia-noite, horário de Brasília)
+formato: v1
+raiz: 4b66dc0daa0eac6a35a2f7b9e54809bc5f844653d7400587b7fea09cfe47c7fb
